@@ -21,13 +21,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82224be0-23c4-4650-96f3-194cffc7249d" name="Changes" comment="finishedddddddd">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/render.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +110,7 @@
       <workItem from="1729787401029" duration="700000" />
       <workItem from="1729788177252" duration="16000" />
       <workItem from="1729788221580" duration="19351000" />
-      <workItem from="1731530331721" duration="2232000" />
+      <workItem from="1731530331721" duration="3512000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />

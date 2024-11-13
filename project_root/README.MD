@@ -7,7 +7,7 @@ A simple budget tracking application that helps you manage your finances.
 - Track income and expenses
 - Categorize transactions
 - Generate reports and summaries
-- Set budget goals
+- Plot a graph that tracks your spending over time
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/budget-tracker.git`
@@ -22,7 +22,7 @@ A simple budget tracking application that helps you manage your finances.
 
 ## Usage
 1. In you IDE of choice open up main.cpp run the main file and the rest should be quite intuitive. 
-
+2. Intuitive in that the app describes actions available to you as a user
 
 ## Citations 
 - https://matplotlib.org/stable/users/explain/quick_start.html
