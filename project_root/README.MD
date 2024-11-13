@@ -12,14 +12,22 @@ A simple budget tracking application that helps you manage your finances.
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/budget-tracker.git`
 2. Make CMAKE project within your choice of C++ IDE
-3. 
+3. Fix paths in Bank.cpp and main.cpp - currently set to relative paths which should work but if the code does not complile it is from an issue with the paths and can be fixed by using absolute paths
+
+## Langauges Used
+- Python 
+- C++
+- Markdown
+
 
 ## Usage
-1. Sign up or log in to your account.
-2. Add your income and expenses.
-3. View your transaction history and balance.
-4. Set budget goals and track your progress.
-5. Generate reports and summaries to analyze your finances.
+1. In you IDE of choice open up main.cpp run the main file and the rest should be quite intuitive. 
 
 
-
+## Citations 
+- https://matplotlib.org/stable/users/explain/quick_start.html
+- https://docs.python.org/3/library/itertools.html
+- https://www.geeksforgeeks.org/
+- python-itertools-accumulate/
+- https://www.scaler.com/topics
+- list-of-dictionaries-in-python/
