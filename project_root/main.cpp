@@ -197,7 +197,8 @@ int main()
                 // Save data to file (only if income and expenditures were entered)
                 if (incomeAndExpendituresEntered)
                 {
-                    string basePath = "/Users/jonahballard/Documents/M3OEP-jtballar/";
+                    //ADJUST BASHPATH TO YOUR DIRECTORY
+                    string basePath = "project_root";
                     string filename = getFilenameInput("Enter the filename to save to: ");
                     string fullPath = basePath + filename;
 
@@ -207,11 +208,11 @@ int main()
                     else
                         checkingAccount.saveToFile(filename, currentDate);  // Pass the date to save
 
-                    string command = "python /Users/jonahballard/Documents/M3OEP-jtballar/sort_csv.py " + fullPath;
+                    string command = "python project_root/sort_csv.py " + fullPath;
                     system(command.c_str());
 
 
-                    string command1 = "python /Users/jonahballard/Documents/M3OEP-jtballar/render.py " + fullPath;
+                    string command1 = "python project_root/render.py " + fullPath;
                     system(command1.c_str());
 
 
