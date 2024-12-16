@@ -1,7 +1,7 @@
 # Budget Tracker
 
 ## Description
-A simple budget tracking application that helps you manage your finances.
+A budget tracking application that helps you manage your finances.
 
 ## Features
 - Track income and expenses
